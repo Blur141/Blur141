@@ -36,13 +36,6 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blur141&show_icons=true&theme=dark&hide_border=true" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammedniyasnf/">
