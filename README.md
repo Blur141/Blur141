@@ -44,14 +44,6 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 
 ---
 
-### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Automating Server Monitoring with Zabbix](https://medium.com/@mohammedniyas654)
-- [Bash Scripting Best Practices for Sysadmins](https://medium.com/@mohammedniyas654)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🤝 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammedniyasnf/">
@@ -63,8 +55,4 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Blur141.Blur141" alt="Visitor Count" />
 </div>
