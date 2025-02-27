@@ -1,37 +1,57 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=🚀+Linux+Administrator;☁️+AWS+Certified+Professional;📈+Zabbix+%26+Grafana+Expert;🤖+Automation+Specialist" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Linux+Admin+%7C+DevOps+Enthusiast;Automation+Specialist+%7C+AWS+Certified;Zabbix+%26+Grafana+Expert" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🔥 Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
+### 👨💻 About Me
+I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-on experience in infrastructure management and monitoring. Transitioning into DevOps, I specialize in:
+- 🐧 **Linux Administration** (Oracle Linux, Ubuntu Server)
+- 📊 **Monitoring Solutions** (Zabbix, Grafana, ILOM)
+- 🤖 **Automation** (Bash, Ansible, OLVM)
+- ☁️ **Cloud & DevOps** (AWS, CI/CD pipelines)
 
-[![Linux](https://img.shields.io/badge/Linux-Expert-FFD700?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
-[![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
-[![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-</div>
+**Currently sharpening:** Advanced Bash scripting, Kubernetes, and Terraform
 
 ---
 
-### 🌟 Featured Projects
+### 🛠️ Technical Stack
+
+#### **Core Expertise**
 <div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-[![Automation Dashboard](https://svg-banners.vercel.app/api?type=glitch&text1=Infrastructure+Automation&width=800&height=200)](https://github.com/Blur141)
-[![Monitoring System](https://svg-banners.vercel.app/api?type=origin&text1=Zabbix+Monitoring+Stack&width=800&height=200)](https://github.com/Blur141)
-
+#### **Working Knowledge**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ---
 
-### 📊 Activity Overview
+### 📈 GitHub Stats
 <div align="center">
-  
-```bash
-👨💻 Daily System: Oracle Linux | Ubuntu Server
-📚 Currently Learning: Kubernetes | Terraform
-🎯 2024 Goals: Master DevOps Pipeline Design
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blur141&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammedniyasnf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mohammedniyas654">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:mohammedniyas654@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
