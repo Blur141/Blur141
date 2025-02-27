@@ -39,7 +39,6 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 ### 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blur141&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Blur141&theme=dark&hide_border=true" />
 </div>
 
 ---
