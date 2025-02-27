@@ -1,54 +1,27 @@
-### 👨💻 About Me
-I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-on experience in infrastructure management and monitoring. Transitioning into DevOps, I specialize in:
-- 🐧 **Linux Administration** (Oracle Linux, Ubuntu Server)
-- 📊 **Monitoring Solutions** (Zabbix, Grafana, ILOM)
-- 🤖 **Automation** (Bash, Ansible, OLVM)
-- ☁️ **Cloud & DevOps** (AWS, CI/CD pipelines)
-
-**Currently sharpening:** Advanced Bash scripting, Kubernetes, and Terraform
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=535&lines=Linux+Admin+%7C+DevOps+Enthusiast;Automation+Specialist+%7C+AWS+Certified;Zabbix+%26+Grafana+Expert" alt="Typing SVG" />
+  <h1>Mohammed Niyas NF</h1>
+  <h3>Linux Administrator | DevOps Aspirant</h3>
+  
+  ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠 Core Expertise
 
-#### **Core Expertise**
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
-#### **Working Knowledge**
-<div align="center">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redhat-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<div align="center" style="padding: 10px">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammedniyasnf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@mohammedniyas654">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:mohammedniyas654@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-   <a href="https://www.youtube.com/@blur141">
-    <img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
+### 📌 Currently Working With
+
+```text
+🖥  Infrastructure: Oracle Linux | Ubuntu Server | ODA
+🔧 Tools: Zabbix | Grafana | ILOM | OLVM
+📝 Scripting: Bash | Python
