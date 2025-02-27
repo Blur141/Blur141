@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Linux+Admin+%7C+DevOps+Enthusiast;Automation+Specialist+%7C+AWS+Certified;Zabbix+%26+Grafana+Expert" alt="Typing SVG" />
-</div>
-
----
-
 ### 👨💻 About Me
 I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-on experience in infrastructure management and monitoring. Transitioning into DevOps, I specialize in:
 - 🐧 **Linux Administration** (Oracle Linux, Ubuntu Server)
@@ -12,6 +6,9 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 - ☁️ **Cloud & DevOps** (AWS, CI/CD pipelines)
 
 **Currently sharpening:** Advanced Bash scripting, Kubernetes, and Terraform
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Linux+Admin+%7C+DevOps+Enthusiast;Automation+Specialist+%7C+AWS+Certified;Zabbix+%26+Grafana+Expert" alt="Typing SVG" />
+</div>
 
 ---
 
