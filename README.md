@@ -18,22 +18,22 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 ### 🛠️ Technical Stack
 
 <div align="center" style="margin: 10px 0">
-  <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=transparent" />
 </div>
 
 #### Development & Scripting
 <div align="center" style="margin: 10px 0">
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=transparent" />
 </div>
 
 ---
