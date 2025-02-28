@@ -29,7 +29,7 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 
 #### Development & Scripting
 <div align="center" style="margin: 15px 0">
-  <img src="https://img.shields.io/badge/Shell Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell script"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
