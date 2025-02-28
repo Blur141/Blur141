@@ -10,11 +10,8 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=535&lines=Linux+Admin+%7C+DevOps+Enthusiast;Automation+Specialist+%7C+AWS+Certified;Zabbix+%26+Grafana+Expert" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=97F700&background=FFFFFF00&width=435&lines=Linux+Administrator+%7C+DevOpsEnthusiast)](https://git.io/typing-svg)  
 </div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=97F700&background=FFFFFF00&width=435&lines=Linux+Administrator+%7C+DevOpsEnthusiast)](https://git.io/typing-svg)
 
 ### 🛠️ Technical Stack
 
