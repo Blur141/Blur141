@@ -18,22 +18,22 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 ### 🛠️ Technical Stack
 
 <div align="center" style="margin: 10px 0">
-  <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=transparent" />
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #F80000; color: white; font-weight: bold;">Oracle Linux</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #EE0000; color: white; font-weight: bold;">Red Hat</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #E95420; color: white; font-weight: bold;">Ubuntu</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #EE0000; color: white; font-weight: bold;">Ansible</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #CC0000; color: white; font-weight: bold;">Zabbix</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #FF9900; color: white; font-weight: bold;">AWS</span>
 </div>
 
 #### Development & Scripting
 <div align="center" style="margin: 10px 0">
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logoColor=transparent" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=transparent" />
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #4EAA25; color: white; font-weight: bold;">Shell Scripting</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #3776AB; color: white; font-weight: bold;">Python</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #E34F26; color: white; font-weight: bold;">HTML</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #1572B6; color: white; font-weight: bold;">CSS</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #06B6D4; color: white; font-weight: bold;">Tailwind CSS</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #F7DF1E; color: black; font-weight: bold;">JavaScript</span>
 </div>
 
 ---
