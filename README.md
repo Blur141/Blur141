@@ -35,9 +35,6 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </div>
 
 ---
