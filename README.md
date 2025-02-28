@@ -17,25 +17,25 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 
 ### 🛠️ Technical Stack
 
-#### Core Infrastructure
 <div align="center" style="margin: 10px 0">
-  <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge&color=F80000" />
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&color=EE0000" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&color=E95420" />
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&color=000000" />
-  <img src="https://img.shields.io/badge/Zabbix-DC2C2C?style=for-the-badge&color=DC2C2C" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&color=FF9900" />
+  <img src="https://img.shields.io/badge/Oracle_Linux-F80000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" />
 </div>
 
 #### Development & Scripting
 <div align="center" style="margin: 10px 0">
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&color=4EAA25" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=3776AB" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&color=E34F26" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&color=1572B6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&color=06B6D4" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
 </div>
+
 ---
 
 ### 🤝 Let's Connect
