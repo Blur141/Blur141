@@ -26,8 +26,6 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=transparent" />
 </div>
 
----
-
 <div align="center" style="margin: 10px 0">
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logoColor=transparent" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=transparent" />
