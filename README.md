@@ -18,22 +18,22 @@ I'm a **Linux Systems Administrator** at Gerab Sys with **7+ months** of hands-o
 ### 🛠️ Technical Stack
 
 <div align="center" style="margin: 10px 0">
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #F80000; color: white; font-weight: bold;">Oracle Linux</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #EE0000; color: white; font-weight: bold;">Red Hat</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #E95420; color: white; font-weight: bold;">Ubuntu</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #EE0000; color: white; font-weight: bold;">Ansible</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #CC0000; color: white; font-weight: bold;">Zabbix</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #FF9900; color: white; font-weight: bold;">AWS</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #F80000; color: white; font-weight: bold; text-align: center;">Oracle Linux</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #EE0000; color: white; font-weight: bold; text-align: center;">Red Hat</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #E95420; color: white; font-weight: bold; text-align: center;">Ubuntu</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #EE0000; color: white; font-weight: bold; text-align: center;">Ansible</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #CC0000; color: white; font-weight: bold; text-align: center;">Zabbix</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #FF9900; color: white; font-weight: bold; text-align: center;">AWS</span>
 </div>
 
 #### Development & Scripting
 <div align="center" style="margin: 10px 0">
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #4EAA25; color: white; font-weight: bold;">Shell Scripting</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #3776AB; color: white; font-weight: bold;">Python</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #E34F26; color: white; font-weight: bold;">HTML</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #1572B6; color: white; font-weight: bold;">CSS</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #06B6D4; color: white; font-weight: bold;">Tailwind CSS</span>
-  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #F7DF1E; color: black; font-weight: bold;">JavaScript</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #4EAA25; color: white; font-weight: bold; text-align: center;">Shell Scripting</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #3776AB; color: white; font-weight: bold; text-align: center;">Python</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #E34F26; color: white; font-weight: bold; text-align: center;">HTML</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #1572B6; color: white; font-weight: bold; text-align: center;">CSS</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #06B6D4; color: white; font-weight: bold; text-align: center;">Tailwind CSS</span>
+  <span style="display: inline-block; padding: 8px 16px; border-radius: 4px; background-color: #F7DF1E; color: black; font-weight: bold; text-align: center;">JavaScript</span>
 </div>
 
 ---
