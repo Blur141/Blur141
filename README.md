@@ -1,22 +1,137 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohammed Niyas NF
-==========================================================================================================================================
+<div align="center">
 
-I’m a passionate Linux System Administrator and Information Security enthusiast with hands-on experience managing enterprise Linux environments. I enjoy working close to the operating system layer—hardening servers, troubleshooting production issues, and ensuring systems remain secure, stable, and compliant.
+# Hi 👋 I'm Mohammed Niyas NF
 
-My daily work revolves around Oracle Linux, RHEL-based systems, user and access management, PAM configurations, password policies, OpenSSL version audits, and system hardening aligned with security best practices. I’m particularly interested in understanding why things work the way they do, not just how to configure them.
+### Linux Engineer & Cybersecurity Enthusiast · Dubai, UAE 🇦🇪
 
-Currently, I’m expanding my skill set in cybersecurity, focusing on OS-level security, authentication mechanisms, encryption, and vulnerability management. I actively document what I learn and build practical GitHub repositories that serve as real-world references for Linux administration and security operations.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedniyasportfolio.vercel.app-black?style=flat-square&logo=vercel)](https://mohammedniyasportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammedniyasnf-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammedniyasnf)
+[![GitHub](https://img.shields.io/badge/GitHub-Blur141-181717?style=flat-square&logo=github)](https://github.com/Blur141)
+[![Email](https://img.shields.io/badge/Email-mohammedniyas654@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mohammedniyas654@gmail.com)
 
-* 🌍  I'm based in United Arab Emirates
-* ✉️  You can contact me at [mohammedniyas654@gmail.com](mailto:mohammedniyas654@gmail.com)
-* 🧠  I'm currently learning MSCIS Masters of science information security
-* 👥  I'm looking to collaborate on Open-source projects related to Linux, cybersecurity, and infrastructure automation
-* 💬  Ask me about Actively learning, documenting, and building practical projects while growing in cybersecurity
+</div>
 
-<p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+## About Me
 
-<p align="left"> <a href="https://www.github.com/Blur141" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mohammedniyasnf/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/blur141" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+Results-driven **Linux Engineer** with nearly 2 years of hands-on experience managing enterprise Oracle Linux and Ubuntu environments across multi-client infrastructures in the UAE. Currently working at **Gerab System Solutions LLC** as a Linux Engineer, administering production server environments, developing automation scripts, and handling SOC/NOC operations.
+
+I'm actively transitioning into a **cybersecurity-focused engineering role**, with a strong foundation in OS-level security, authentication mechanisms, network intrusion detection, and infrastructure hardening. I don't just configure things — I understand *why* they work the way they do.
+
+Alongside my professional work, I'm completing an **MSc in Information Security**, and my capstone project — **ORION IDS** — is a full-stack, real-time Network Intrusion Detection System built from scratch.
+
+- 🌍 Based in **Dubai, UAE**
+- 🏢 Currently at **Gerab System Solutions LLC** (2024 – Present)
+- 🎓 Pursuing **MSc Information Security (MSCIS)**
+- 🔐 Passionate about **Linux security, SOC/NOC operations, and network forensics**
+- 🤝 Open to collaborate on **Linux, cybersecurity, and infrastructure automation** projects
+- 📬 Reach me at [mohammedniyas654@gmail.com](mailto:mohammedniyas654@gmail.com)
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Linux & Infrastructure
+![Oracle Linux](https://img.shields.io/badge/Oracle_Linux-F80000?style=flat-square&logo=oracle&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### Security & SOC/NOC
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-3670A0?style=flat-square&logo=python&logoColor=white)
+![Network IDS](https://img.shields.io/badge/Network_IDS-black?style=flat-square)
+![SOC/NOC](https://img.shields.io/badge/SOC%2FNOC_Operations-222222?style=flat-square)
+
+### Cloud & Virtualisation
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OLVM](https://img.shields.io/badge/OLVM%2FILOM-red?style=flat-square)
+
+### Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ ORION IDS — MSc Capstone
+**Operational Reconnaissance & Intelligent Observation Network**
+
+A full-stack, real-time Network Intrusion Detection System (NIDS) built from scratch.
+
+- **Live packet capture** using Scapy in promiscuous mode — TCP, UDP, ICMP, ARP, DNS, HTTP/S, IPv6
+- **9 attack type detection** — ARP Spoofing, SYN Flood, Port Scanning, DNS Tunneling, Brute Force, and more — with zero false-positive design
+- **5-tier service resolution pipeline** identifying 80+ services without decrypting HTTPS traffic
+- **Real-time React dashboard** via FastAPI + WebSocket at sub-100ms latency with 14-category traffic classification
+- **SQLite forensic persistence** + simulation mode for rootless dev environments
+
+`Python` `Scapy` `FastAPI` `React` `WebSocket` `SQLite`
+
+---
+
+### ⚙️ Oracle Linux Health Check — Open Source
+[View on GitHub →](https://github.com/Blur141/oracle-linux-healthcheck)
+
+A comprehensive Bash script for rapid Oracle Linux system health assessment.
+
+- Checks CPU, memory, disk usage, and running services
+- Retrieves hostname, IP, OS release, uptime, Chrony status, top processes, multipath, and hardware info
+- Zero dependencies — runs on standard Linux utilities only
+
+`Bash` `Linux` `System Administration`
+
+---
+
+### 📋 OLVM Resource Management — Documentation
+[View on GitHub →](https://github.com/Blur141/olvm-vm-resource-management)
+
+Standard Operating Procedure for managing VM resources in Oracle Linux Virtualization Manager.
+
+- Step-by-step guide for safely increasing CPU resources for VMs in OLVM
+- Pre-shutdown integrity checks, graceful shutdown procedures, and post-change verification
+
+`OLVM` `Virtualization` `Technical Writing`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blur141&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blur141&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Areas of Interest
+
+```
+Linux Infrastructure Security        |  Cybersecurity Operations (SOC/NOC)
+Network Intrusion Detection          |  Cloud Security (AWS / OCI)
+Infrastructure Automation            |  Digital Forensics
+```
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammedniyasnf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedniyasnf)
+[![GitHub](https://img.shields.io/badge/GitHub-Blur141-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blur141)
+[![Discord](https://img.shields.io/badge/Discord-blur141-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/blur141)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammedniyasportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedniyas654@gmail.com)
+
+---
+
+<div align="center">
+  <i>Available for opportunities · Open to collaboration</i>
+</div>
