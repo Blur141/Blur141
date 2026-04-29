@@ -59,48 +59,6 @@ Alongside my professional work, I'm completing an **MSc in Information Security*
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ ORION IDS — MSc Capstone
-**Operational Reconnaissance & Intelligent Observation Network**
-
-A full-stack, real-time Network Intrusion Detection System (NIDS) built from scratch.
-
-- **Live packet capture** using Scapy in promiscuous mode — TCP, UDP, ICMP, ARP, DNS, HTTP/S, IPv6
-- **9 attack type detection** — ARP Spoofing, SYN Flood, Port Scanning, DNS Tunneling, Brute Force, and more — with zero false-positive design
-- **5-tier service resolution pipeline** identifying 80+ services without decrypting HTTPS traffic
-- **Real-time React dashboard** via FastAPI + WebSocket at sub-100ms latency with 14-category traffic classification
-- **SQLite forensic persistence** + simulation mode for rootless dev environments
-
-`Python` `Scapy` `FastAPI` `React` `WebSocket` `SQLite`
-
----
-
-### ⚙️ Oracle Linux Health Check — Open Source
-[View on GitHub →](https://github.com/Blur141/oracle-linux-healthcheck)
-
-A comprehensive Bash script for rapid Oracle Linux system health assessment.
-
-- Checks CPU, memory, disk usage, and running services
-- Retrieves hostname, IP, OS release, uptime, Chrony status, top processes, multipath, and hardware info
-- Zero dependencies — runs on standard Linux utilities only
-
-`Bash` `Linux` `System Administration`
-
----
-
-### 📋 OLVM Resource Management — Documentation
-[View on GitHub →](https://github.com/Blur141/olvm-vm-resource-management)
-
-Standard Operating Procedure for managing VM resources in Oracle Linux Virtualization Manager.
-
-- Step-by-step guide for safely increasing CPU resources for VMs in OLVM
-- Pre-shutdown integrity checks, graceful shutdown procedures, and post-change verification
-
-`OLVM` `Virtualization` `Technical Writing`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -113,12 +71,9 @@ Standard Operating Procedure for managing VM resources in Oracle Linux Virtualiz
 ---
 
 ## 🎯 Areas of Interest
-
-```
-Linux Infrastructure Security        |  Cybersecurity Operations (SOC/NOC)
-Network Intrusion Detection          |  Cloud Security (AWS / OCI)
-Infrastructure Automation            |  Digital Forensics
-```
+Linux Infrastructure Security | Cybersecurity Operations (SOC/NOC)
+Network Intrusion Detection | Cloud Security (AWS / OCI)
+Infrastructure Automation | Digital Forensics
 
 ---
 
